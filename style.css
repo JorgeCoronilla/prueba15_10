@@ -1,0 +1,10 @@
+#container {
+    display:flex;
+    flex-direction: column-reverse;
+    justify-content:right;
+}
+
+.img {
+    width:100px;
+    align-self: flex-end;
+}
